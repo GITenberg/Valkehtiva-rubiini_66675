@@ -1,0 +1,28 @@
+_repo: Valkehtiva-rubiini_66675
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tervaskanto, Jussi
+    gutenberg_agent_id: '48611'
+    url: http://www.gutenberg.org/2009/agents/48611
+creator:
+  author:
+    agent_name: Fletcher, J. S. (Joseph Smith)
+    alias: Fletcher, Joseph Smith
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '1761'
+    url: http://www.gutenberg.org/2009/agents/1761
+    wikipedia: https://en.wikipedia.org/wiki/J._S._Fletcher
+description: ''
+gutenberg_issued: '2021-11-05'
+identifiers:
+  gutenberg: '66675'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Välkehtivä rubiini
+url: http://www.gutenberg.org/ebooks/66675
